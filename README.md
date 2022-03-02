@@ -42,6 +42,6 @@ Based on the given background it would seem that having a framework of C code th
 
 # Some proposed features of such framework:
 
-* It's written in C, since this allows most freedom in choosing to e.g. develop in other languages, while still leaving options for C-compatability and high performance.
+* It's written in C, since this allows most freedom in choosing to e.g. develop in other languages, while still leaving options for C-compatibility and high performance.
 * It has a modular architecture, which means that it contains "generic classes" that define what a DAW generally has or may have. The framework is meant to operate like Qt operates for GUIs. That is, when a developer wants to write DAW or a music program, then the framework has the essential parts for this and ways to extend them.
 * It's FLOSS, because this allows it to be retained in public domain use, so that anyone can use it.
