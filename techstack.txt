@@ -12,6 +12,10 @@ Sound I/O:
 
 PortAudio? Something else?
 
+File I/O:
+
+???
+
 Event handling:
 
 ???
