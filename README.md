@@ -18,7 +18,7 @@ This is a repository created for fueling discussion and development around a pub
 
 or
 
-* Use multiple programs, because they have different strenghts and weaknesses.
+* Use multiple programs, because they have different strengths and weaknesses.
 
 or
 
