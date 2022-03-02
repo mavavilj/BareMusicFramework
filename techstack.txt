@@ -2,4 +2,4 @@ This document discusses the tech stack that BareMusicFramework would use.
 
 GUI:
 
-Should this be GTK(+) or wxwidgets? It cannot be Qt, since it's not FLOSS.
+Should this be GTK(+) or something else?
