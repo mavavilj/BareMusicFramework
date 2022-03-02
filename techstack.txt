@@ -3,3 +3,15 @@ This document discusses the tech stack that BareMusicFramework would use.
 GUI:
 
 Should this be GTK(+) or something else?
+
+MIDI:
+
+What C library gives this?
+
+Sound I/O:
+
+PortAudio? Something else?
+
+Event handling:
+
+???
