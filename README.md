@@ -15,9 +15,13 @@ This is a repository created for fueling discussion and development around a pub
 ## DAW users:
 
 * Are happy with their commercial DAW.
+
 or
+
 * Use multiple programs, because they have different strenghts and weaknesses.
+
 or
+
 * Would like to change things in their programs, workflows, etc., but have no means to change things.
 
 ## Existing DAW frameworks:
