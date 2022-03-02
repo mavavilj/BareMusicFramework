@@ -8,7 +8,7 @@ This is a repository created for fueling discussion and development around a pub
 
 * Are closed source code.
 * Are large software projects so that even if their code was open it could be difficult to reuse because there's so much of it already.
-* Are not necessariy designed for modularity in mind. So if one wanted to design some custom music program that uses some code of a finished DAW, then this may not be possible, if the DAW's API is not designed modularly.
+* Are not necessarily designed for modularity in mind. So if one wanted to design some custom music program that uses some code of a finished DAW, then this may not be possible, if the DAW's API is not designed modularly.
 * Are not necessarily designed for customization. Compare e.g. Cubase (at most user macros?) to Reaper (SDK and JSFX).
 * Are fundamentally quite similar software, so that the technical features of DAW A and DAW B are not as big as one may imagine. Most of it is in GUI layouts and bundled FX etc. But all DAW programs could in principle share a "common base".
 
