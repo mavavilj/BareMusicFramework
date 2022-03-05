@@ -31,7 +31,7 @@ or
 ## Developers:
 
 * May want to develop new types of programs or new components to new programs, but get lost as how to achieve it, if there's no "common base framework" of DAWs, which can be studied like JUCE or WDL-OL can be studied for plug-ins.
-* May want to write or modify only particular parts of programs, like rewriting a fader class or a "VST rack" class or something.
+* May want to write or modify only particular parts of programs, like rewriting a sequencer class, a fader class or a "VST rack" class or something.
 * May want to share creations, but may not have conventions for doing so.
 * May want to write different sorts of musical applications, and may not want to rethink the framework choice everytime they do so.
 * May want to develop in new languages, which might then require that the lower level API is written in some nice language, e.g. C, for which it's easy to create bindings.
