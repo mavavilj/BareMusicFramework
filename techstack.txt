@@ -10,7 +10,7 @@ What C library gives this?
 
 Sound I/O:
 
--libsoundio
+-libsndfile
 
 File I/O:
 
