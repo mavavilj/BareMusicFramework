@@ -10,7 +10,7 @@ What C library gives this?
 
 Sound I/O:
 
-PortAudio? Something else?
+-libsoundio
 
 File I/O:
 
