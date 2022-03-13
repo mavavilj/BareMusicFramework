@@ -38,7 +38,7 @@ or
 
 # Motive:
 
-Based on the given background, it would seem that having a framework of C code that allows development of "all sorts of DAW programs" like JUCE or WDL-OL allows writing "all sorts of plug-in" could be nice.
+Based on the given background, it would seem that having a framework of C code that allows development of "all sorts of musical programs" like JUCE or WDL-OL allows writing "all sorts of plug-in" could be nice.
 
 # Some proposed features of such framework:
 
