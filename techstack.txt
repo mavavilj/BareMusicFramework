@@ -6,7 +6,7 @@ https://github.com/vurtun/nuklear + GLFW
 
 MIDI:
 
-What C library gives this? Seems like there's no public domain C library for this?
+portmidi
 
 Sound I/O:
 
