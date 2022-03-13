@@ -2,7 +2,7 @@ This document discusses the tech stack that BareMusicFramework would use.
 
 GUI:
 
-GTK
+https://github.com/vurtun/nuklear
 
 MIDI:
 
