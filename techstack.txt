@@ -10,7 +10,7 @@ What C library gives this?
 
 Sound I/O:
 
--libsndfile
+https://github.com/mackron/miniaudio
 
 File I/O:
 
