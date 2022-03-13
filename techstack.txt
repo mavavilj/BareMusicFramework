@@ -6,7 +6,7 @@ https://github.com/vurtun/nuklear
 
 MIDI:
 
-What C library gives this?
+What C library gives this? Seems like there's no public domain C library for this?
 
 Sound I/O:
 
@@ -14,8 +14,8 @@ https://github.com/mackron/miniaudio
 
 File I/O:
 
-???
+fopen etc.
 
 Event handling:
 
-???
+In nuklear?
