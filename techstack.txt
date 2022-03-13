@@ -2,7 +2,7 @@ This document discusses the tech stack that BareMusicFramework would use.
 
 GUI:
 
-Should this be GTK(+) or something else?
+GTK
 
 MIDI:
 
