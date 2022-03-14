@@ -24,9 +24,10 @@ or
 
 * Would like to change things in their programs, workflows, etc., but have no means to change things.
 
-## Existing DAW frameworks:
+## Existing frameworks:
 
-* Are scattered and unstandardized. Every "DAW house" might construct their own framework or at least select their own toolchains.
+* Are scattered and unstandardized. For example, every "DAW house" might construct their own framework or at least select their own toolchains.
+* May not have implemented prerequisites for some implementations. Examples: SoundCollider is licensed in GPL, which prohibits making commercial plug-ins using it. SoundCollider has an odd selection of languages. FAUST is licensed under the GPL. FAUST is written using C++.
 
 ## Developers:
 
