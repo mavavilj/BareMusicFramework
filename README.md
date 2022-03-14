@@ -50,7 +50,9 @@ Based on the given background, it would seem that having a framework of C code t
 # Related links/discussions/etc.:
 
 Proposal: An open standards framework for musical applications in C.
+
 https://www.reddit.com/r/musicprogramming/comments/td3019/proposal_an_open_standards_framework_for_musical/
 
 Is there a good way to develop plugins and other DSP using only 100% free and open source tools/libraries?
+
 https://www.kvraudio.com/forum/viewtopic.php?t=566455&start=15
