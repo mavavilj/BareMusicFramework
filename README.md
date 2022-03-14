@@ -49,4 +49,5 @@ Based on the given background, it would seem that having a framework of C code t
 
 # Related links/discussions/etc.:
 
+Is there a good way to develop plugins and other DSP using only 100% free and open source tools/libraries?
 https://www.kvraudio.com/forum/viewtopic.php?t=566455&start=15
