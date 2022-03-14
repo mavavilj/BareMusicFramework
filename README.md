@@ -1,6 +1,6 @@
 # BareMusicFramework
 
-This is a repository created for fueling discussion and development around a public domain "barebones musical application framework". The background for this comes from a set of personally recognized issues with conventional DAWs and development APIs.
+This is a repository created for fueling discussion and development around a public domain "barebones musical application framework". The background for this comes from a set of personally recognized issues with conventional DAWs and development APIs. The library is envisioned to be a Linux-only library.
 
 # Background:
 
