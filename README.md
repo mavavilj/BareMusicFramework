@@ -27,7 +27,7 @@ or
 ## Existing frameworks:
 
 * Are scattered and unstandardized. For example, every "DAW house" might construct their own framework or at least select their own toolchains.
-* May not have implemented prerequisites for some implementations. Examples: SoundCollider is licensed in GPL, which prohibits making commercial plug-ins using it. SoundCollider has an odd selection of languages. FAUST is licensed under the GPL. FAUST is written using C++.
+* May not have implemented prerequisites for some implementations. Examples: SoundCollider is licensed in GPL, which prohibits making commercial plug-ins using it. SoundCollider has an odd selection of languages. FAUST is licensed under the GPL. FAUST is written using C++. FAUST limits the possibilities in DSP: https://ccrma.stanford.edu/~rmichon/faustTutorials/#what-is-faust-not-so-good-for.
 
 ## Developers:
 
