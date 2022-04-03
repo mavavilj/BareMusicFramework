@@ -6,7 +6,8 @@ https://github.com/vurtun/nuklear + X11
 
 MIDI:
 
-portmidi
+https://github.com/stump/libsmf for files
+portmidi for I/O
 
 Sound I/O:
 
