@@ -11,17 +11,19 @@ portmidi for I/O
 
 Sound I/O:
 
-linked list with reference counted objects
-https://docs.python.org/3/c-api/refcounting.html
-read also: 
-A Fast Data Structure for Disk-Based Audio Editing
-https://www.jstor.org/stable/3681457?seq=1
-
 https://github.com/mackron/miniaudio
 
 File I/O:
 
 fopen etc.
+
+Track management:
+
+linked lists with reference counted objects
+https://docs.python.org/3/c-api/refcounting.html
+read also: 
+A Fast Data Structure for Disk-Based Audio Editing
+https://www.jstor.org/stable/3681457?seq=1
 
 Event handling:
 
