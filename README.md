@@ -56,3 +56,7 @@ https://www.reddit.com/r/musicprogramming/comments/td3019/proposal_an_open_stand
 Is there a good way to develop plugins and other DSP using only 100% free and open source tools/libraries?
 
 https://www.kvraudio.com/forum/viewtopic.php?t=566455&start=15
+
+# Extra:
+
+For broad applicability, perhaps this could support a strictly typed language like Haskell.
