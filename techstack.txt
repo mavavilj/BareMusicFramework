@@ -3,6 +3,8 @@ This document discusses the tech stack that BareMusicFramework would use.
 GUI:
 
 https://github.com/vurtun/nuklear + X11
+or, possibly,
+IUP
 
 MIDI:
 
