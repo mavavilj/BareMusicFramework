@@ -6,7 +6,7 @@ This is a repository created for fueling discussion and development around a pub
 
 ## Finished musical programs:
 
-* Are often closed source code.
+* Are often closed source code. Are meant to be sold.
 * Are large software projects so that even if their code was open it could be difficult to reuse because there's so much of it already.
 * Are not necessarily designed for modularity in mind. So if one wanted to design some custom music program that uses some code of a finished DAW, then this may not be possible, if the DAW's API is not designed modularly.
 * Are not necessarily designed for customization. Compare e.g. Cubase (at most user macros?) to Reaper (SDK and JSFX).
