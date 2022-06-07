@@ -1,6 +1,6 @@
 # BareMusicFramework
 
-This is a repository created for fueling discussion and development around a public domain (or at most MIT or BSD) "barebones musical application framework". The background for this comes from a set of personally recognized issues with conventional DAWs and development APIs. The library is envisioned to be a Linux-only library.
+This is a repository created for fueling discussion and development around a public domain (or at most MIT or BSD) "barebones musical application framework". The background for this comes from a set of personally recognized issues with conventional DAWs and development APIs. The library is envisioned to be a Linux- or FreeBSD-only (or Linux & FreeBSD) library.
 
 # Background:
 
@@ -43,9 +43,9 @@ Based on the given background, it would seem that having a framework of C code t
 
 # Some proposed features of such framework:
 
-* It's written in C, since this allows most freedom in choosing to e.g. develop in other languages, while still leaving options for C-compatibility and high performance.
+* It's written in C, since this allows most freedom in choosing to e.g. develop in other languages, while still leaving options for C-compatibility (to use existing libraries) and high performance.
 * It has a modular architecture, which means that it contains "generic classes" that define what a musical program generally has or may have. The framework is meant to operate like Qt operates for GUIs. That is, when a developer wants to write DAW or a music program, then the framework has the essential parts for this and ways to extend them. This is not a new idea, because http://www.expdigital.co.uk/legacy2/developers.htm seemed like this, but this seemed legacy/abandoned. Infinity is also in C++. Pure Data and FAUST also do something along lines of a general framework, but are limited in some respects.
-* It's FLOSS, because this allows it to be retained in public domain (or near similar) use, so that anyone can use it.
+* It's FLOSS, because this allows it to be retained in public domain (or near similar) use, so that anyone can use it. In particular, it's not a commercial platform like Reaktor or Usine for which you can develop plug-ins.
 
 # Related links/discussions/etc.:
 
